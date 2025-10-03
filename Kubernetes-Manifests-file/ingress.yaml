@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: ramarajanrsa.study
+    - host: ramarajanrsa.com
       http:
         paths:
           - path: /api
