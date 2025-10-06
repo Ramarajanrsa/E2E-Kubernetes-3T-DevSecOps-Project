@@ -1,7 +1,7 @@
 # Three-Tier Web Application Deployment on AWS EKS using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amanpathakdevops)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/ramarajanrsa/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rambrussels)
+[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/Ramarajanrsa)
 
 
 ![Three-Tier Banner](assets/Three-Tier.gif)
@@ -29,6 +29,9 @@ Explore the `Jenkins-Server-TF` directory to find Terraform scripts for setting 
 
 ## Kubernetes Manifests Files
 The `Kubernetes-Manifests-Files` directory holds Kubernetes manifests for deploying your application on AWS EKS. Understand and customize these files to suit your project needs.
+
+## Kubernetes Manifests Files
+The `S3 Bucket Terraform` directory holds Terraform scripts for setting up the S3 bucket & Dynamodb creation with versioning which will be used to store Terraform statefile while creating the Infra for our ptroject.
 
 ## Project Details
 🛠️ **Tools Explored:**
