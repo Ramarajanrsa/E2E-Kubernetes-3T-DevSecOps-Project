@@ -51,7 +51,7 @@ The `S3 Bucket Terraform` directory holds Terraform scripts for setting up the S
 📈 **The journey covered everything from setting up tools to deploying a Three-Tier app, ensuring data persistence, and implementing CI/CD pipelines.**
 
 ## Getting Started
-To get started with this project, you can refer to [comprehensive guide]() that walks you through IAM user setup, infrastructure provisioning, CI/CD pipeline configuration, EKS cluster creation, and more.
+To get started with this project, you can refer to [comprehensive guide](https://medium.com/@rambrussels/end-to-end-devsecops-kubernetes-three-tier-project-aws-eks-3dc446e004ff) that walks you through IAM user setup, infrastructure provisioning, CI/CD pipeline configuration, EKS cluster creation, and more.
 
 ## Contributing
 We welcome contributions! If you have ideas for enhancements or find any issues, please open a pull request or file an issue.
